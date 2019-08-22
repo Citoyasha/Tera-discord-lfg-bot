@@ -15,4 +15,4 @@ a discord bot that sends your lfg across multiple discord servers (currently onl
 ## invite link
 [click me](https://discordapp.com/api/oauth2/authorize?client_id=316693341435723777&permissions=355392&scope=bot)
 ## Server list
-![enter image description here](https://cdn.discordapp.com/attachments/595205050813382678/601438045413048321/unknown.png)
+![22/08/19](https://cdn.discordapp.com/attachments/595205050813382678/614048053451554826/unknown.png)
