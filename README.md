@@ -13,8 +13,9 @@ a discord bot that sends your lfg across multiple discord servers (currently onl
 |lfg stats          |shows the server lists and user count
 |lfg addserver          |adds the server to the bot's list
 |lfg deleteserver          |deletes the server from the bot's list 
-### lfg list example
+### lfg example
 ![lfg list example](https://cdn.discordapp.com/attachments/595205050813382678/627189942405300225/unknown.png)
+![lfg example](https://gyazo.com/983576f6bf69ab7992d5bcbadce71907)
 ## invite link
 [click me](https://discordapp.com/api/oauth2/authorize?client_id=316693341435723777&permissions=355392&scope=bot)
 ## Server list
